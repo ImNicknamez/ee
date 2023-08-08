@@ -1,6 +1,5 @@
 local whitelist = {
-    "B0EA34E8-BF19-4E63-A1C0-73AF61D9ECCD",
-          "attackable": false,
+    "B0EA34E8-BF19-4E63-A1C0-73AF61D9ECCD"
 }
 
 
