@@ -4,7 +4,8 @@
                     if message.TextSource then
                         local player = game:GetService("Players"):GetPlayerByUserId(message.TextSource.UserId)
                         if player and player.UserId == playersService.LocalPlayer.UserId then
-                            properties.PrefixText = "<font color='#2ce698'>[HardWare Private☄️🌙]</font> " .. message.PrefixText
+                            properties.PrefixText = "<font color='#cb3ae8'>[HardWare Private☄️🌙]</font> " .. message.PrefixText
                         end
                     end
                     return properties
+                  end
